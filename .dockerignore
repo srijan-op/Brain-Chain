@@ -1,0 +1,24 @@
+# Ignore Python cache
+__pycache__/
+**/__pycache__/
+
+# Ignore virtual environment
+vir_env/
+
+# Ignore environment variables file
+.env
+
+# Ignore Docker files themselves if not needed inside image
+docker-compose.yml
+Dockerfile
+frontend/Dockerfile
+backend/Dockerfile
+
+# Ignore unnecessary system files
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.DS_Store
+*.git
+*.gitignore

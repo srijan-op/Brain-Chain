@@ -1,0 +1,40 @@
+# Ignore virtual environment
+vir_env/
+venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Docker-related ignore (optional if using images locally)
+*.tar
+
+# Environment files
+.env
+*.env
+
+# Ignore pem key files
+*.pem
+
+# VS Code settings (optional if you use VS Code)
+.vscode/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+
+# Ignore compiled files
+build/
+dist/
+*.egg-info/
+
+# Frontend specific static artifacts (optional)
+frontend/static/*.tmp
+frontend/static/*.log

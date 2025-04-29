@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+groq
+langchain_groq
+langgraph
+langchain_community
+rizaio
+tavily-python
+streamlit
+requests
+streamlit-extras
