@@ -47,7 +47,7 @@ Brain-Chain is a sophisticated multi-agent system that leverages specialized AI 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/brain-chain.git
+   git clone https://github.com/srijan-op/brain-chain.git
    cd brain-chain
    ```
 
